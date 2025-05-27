@@ -35,10 +35,15 @@ Interface: A Python GUI (interface.py) allows users to upload logos and get real
 **📂 Project Structure**
 
 ├── interface.py         # UI for logo upload and prediction
+
 ├── logods.py            # Model training and saving
+
 ├── test.py              # Load saved model and evaluate
+
 ├── /dataset             # Organized dataset (train/valid/genuine/fake)
+
 ├── model/               # Saved trained CNN model
+
 └── Report.pdf           # Detailed academic project report
 
 **🧪 Technologies Used**
